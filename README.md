@@ -4,7 +4,7 @@ I've stoped posting writeups on my github and start posting writeups on my blog
 Here is the link you can find the writeups there
 
 
-https://jopraveen.wordpress.com
+# https://jopraveen.wordpress.com
 
 Happy to see you guys those who really wanna see my writeup :D
 
